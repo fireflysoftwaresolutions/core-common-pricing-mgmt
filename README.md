@@ -1,1 +1,1 @@
-# common-platform-pricing-mgmt
+# core-common-pricing-mgmt
